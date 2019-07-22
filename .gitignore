@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+# Distribution / packaging
+.Python
+
+db.sqlite3
+
+# Enviroments
+.env
+.venv
+env/
+venv/
+ENV/
+
+#mkdocs documentation
+/site
+
+#mypy
+.mypy_cache/
+
+#Ide
+.vscode
+.idea
+
+Pipfile
